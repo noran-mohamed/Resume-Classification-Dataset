@@ -12,7 +12,7 @@ Demo app for Resume classification
 First, create a new virtual environment to ensure all dependencies are isolated from your main Python installation.
 
 ```bash
-conda create -n resume-atlas python=3.9
+conda create -n resume-atlas python=3.8
 ```
 
 ### Step 2: Activate the Environment
