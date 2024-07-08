@@ -67,5 +67,7 @@ The dataset contains 13389 records, encompassing job titles and corresponding re
 ### Removing Stop Words
 - We removed common stop words such as 'and', 'the', and 'is' using NLTK's stop words corpus to improve the quality of the tokenized text.
 
+### Images Data set
+- you can find the images dataset through the following [Link](https://www.kaggle.com/datasets/youssefkhalil/resumes-images-datasets/settings)
 
 
